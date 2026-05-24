@@ -8,7 +8,7 @@
 
 ## 目录
 
-[<kbd style="font-size: 1.2em; padding: 8px 16px;">开始学习</kbd>](chapter1_机器学习概述.md)
+[开始学习](chapter1_机器学习概述.md)
 
 > 📌 请确保学习前你已具备一定的数学基础知识 → [附录 · 数学基础](appendix_数学基础.md)
 
